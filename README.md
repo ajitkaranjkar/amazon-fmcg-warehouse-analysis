@@ -21,11 +21,11 @@ Messy in the way real data is. Almost half the establishment-year values were mi
 ## A few things I found
 
 - 91.8% of warehouses are rural, and most are Large capacity — the network is built for bulk, not proximity
-- The North zone alone accounts for over 100k refill requests in 3 months — that is where stockout risk lives
+- The North zone alone generated 41,814 refill requests in 3 months (40.9% of all refills) — that is where stockout risk lives
 - Headcount has basically zero correlation with storage issues (-0.009). Throwing more people at it is not the fix
 - Distance from the hub barely correlates with transport issues (0.014) — the problem is not how far, it is how the routes are run
-- Warehouses from the 90s average 4 breakdowns per quarter vs 1.3 for ones built in the 2020s. Maintenance budgets should follow age, not size
-- The weird one: A+ certified warehouses report the *most* storage issues. Either the bar needs a look, or better-run warehouses just report more honestly
+- Warehouses from the 90s average 4.03 breakdowns per quarter vs 1.34 for ones built in the 2020s. Maintenance budgets should follow age, not size
+- The weird one: A+ certified warehouses report the *most* storage issues (19.9 avg vs 15.9 for C). Either the bar needs a look, or better-run warehouses just report more honestly
 
 ## Workbook
 
